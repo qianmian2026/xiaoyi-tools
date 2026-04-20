@@ -32,7 +32,7 @@
         <junit-jupiter.version>6.0.3</junit-jupiter.version>
         
         <!-- Dapr Java SDK -->
-        <dapr-sdk.version>1.17.0</dapr-sdk.version>
+        <dapr-sdk.version>1.17.3-rc-1</dapr-sdk.version>
         <!-- Apache PDFBox -->
         <pdfbox.version>3.0.7</pdfbox.version>
     </properties>
